@@ -1,0 +1,6 @@
+# What is Frontend and why did you chose Frontend?
+
+The goal of front-end development is to design a website's graphical user interface such that it is simple for end users to use and that they can engage with it. 
+
+# Why i love Frontend:
+I love that I can immediately see the results of my code as I write it. I also enjoy beautifying, which is another reason I love front-end development. Finally, I love that there are many career opportunities in the industry because more and more websites are being made every day.
