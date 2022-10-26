@@ -7,3 +7,7 @@
 
 
    •Week5 in branch three
+
+# Important Notice:
+
+*All Zuri Tasks are in different branches accordingly to week3, week4 and                            week5 respectively, but they all merged to main branch
